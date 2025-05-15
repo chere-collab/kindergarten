@@ -1,0 +1,16 @@
+ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    ul li {
+      padding: 10px;
+      background-color: #f1f8e9;
+      margin-bottom: 10px;
+      border-radius: 8px;
+    }
+    
+    ul li strong {
+      font-size: 1.1rem;
+    }
+    

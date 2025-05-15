@@ -1,0 +1,39 @@
+.upload-section {
+      padding: 40px 0;
+      background-color: #f1f8e9;
+    }
+    
+    .upload-section h2 {
+      text-align: center;
+      color: #558b2f;
+      margin-bottom: 20px;
+    }
+    
+    .form-group input[type="text"],
+    .form-group input[type="file"] {
+      width: 100%;
+      padding: 10px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+    
+    .upload-submit {
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+    .upload-submit button {
+      background-color: #7cb342;
+      color: white;
+      padding: 10px 30px;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    
+    .upload-submit button:hover {
+      background-color: #558b2f;
+    }
+    
